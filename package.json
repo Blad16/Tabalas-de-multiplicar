@@ -1,0 +1,20 @@
+{
+  "name": "tablas-de-multiplicar-abraham",
+  "version": "1.0.0",
+  "description": "\"# Tabalas-de-multiplicar\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blad16/Tabalas-de-multiplicar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blad16/Tabalas-de-multiplicar/issues"
+  },
+  "homepage": "https://github.com/Blad16/Tabalas-de-multiplicar#readme"
+}
